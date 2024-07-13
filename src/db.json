@@ -1,0 +1,235 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "A thought",
+      "content": "",
+      "image": "image1.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Post 2",
+      "content": "This is the content for Post 2.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "3",
+      "title": "Post 3",
+      "content": "This is the content for Post 3.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "4",
+      "title": "Post 4",
+      "content": "This is the content for Post 4.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "5",
+      "title": "Post 5",
+      "content": "This is the content for Post 5.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "6",
+      "title": "Post 6",
+      "content": "This is the content for Post 6.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "a30b",
+      "title": "Himanshu",
+      "content": "Himanshu is a AI and ml student",
+      "image": {}
+    },
+    {
+      "id": "ded6",
+      "title": "",
+      "content": "",
+      "image": null
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "postId": 1,
+      "comment": "This is a comment."
+    },
+    {
+      "id": "c217",
+      "postId": "1",
+      "comment": "New comment"
+    },
+    {
+      "id": "386e",
+      "postId": "1",
+      "comment": "New comment"
+    },
+    {
+      "id": "833b",
+      "postId": "1",
+      "comment": "New comment"
+    },
+    {
+      "id": "75ff",
+      "postId": "1",
+      "comment": "New comment"
+    },
+    {
+      "id": "b529",
+      "postId": "1",
+      "comment": "fkwsnrng"
+    },
+    {
+      "id": "e34b",
+      "postId": "1",
+      "comment": "New comment"
+    },
+    {
+      "id": "e11e",
+      "postId": "1",
+      "comment": "vjgvjvnmbhkb"
+    },
+    {
+      "id": "a2d1",
+      "postId": "1",
+      "comment": "nbhujgyugvb"
+    },
+    {
+      "id": "d61d",
+      "postId": "1",
+      "comment": "New comment"
+    },
+    {
+      "id": "efc3",
+      "postId": "a30b",
+      "comment": ""
+    },
+    {
+      "id": "0ab6",
+      "postId": "a30b",
+      "comment": "New comment"
+    },
+    {
+      "id": "565d",
+      "postId": "5",
+      "comment": "New comment"
+    },
+    {
+      "id": "f26b",
+      "postId": "1",
+      "comment": "New comment"
+    },
+    {
+      "id": "9e69",
+      "postId": "1",
+      "comment": "New comment"
+    },
+    {
+      "id": "98ea",
+      "postId": "1",
+      "comment": "custom comment"
+    },
+    {
+      "id": "ce99",
+      "postId": "1",
+      "comment": "New comment"
+    },
+    {
+      "id": "12d9",
+      "postId": "2",
+      "comment": "New comment"
+    },
+    {
+      "id": "63c0",
+      "postId": "2",
+      "comment": "New comment"
+    },
+    {
+      "id": "59f8",
+      "postId": "2",
+      "comment": ""
+    },
+    {
+      "id": "790a",
+      "postId": "2",
+      "comment": ""
+    },
+    {
+      "id": "d576",
+      "postId": "2",
+      "comment": "asda"
+    },
+    {
+      "id": "7025",
+      "postId": "1",
+      "comment": "New comment"
+    },
+    {
+      "id": "d81e",
+      "postId": "6",
+      "comment": "New comment"
+    },
+    {
+      "id": "b302",
+      "postId": "2",
+      "comment": ""
+    },
+    {
+      "id": "4fa5",
+      "postId": "2",
+      "comment": ""
+    },
+    {
+      "id": "5a04",
+      "postId": "2",
+      "comment": "kdmfm"
+    },
+    {
+      "id": "1eea",
+      "postId": "2",
+      "comment": ""
+    },
+    {
+      "id": "7664",
+      "postId": "2",
+      "comment": ""
+    },
+    {
+      "id": "bf1b",
+      "postId": "2",
+      "comment": ""
+    },
+    {
+      "id": "6a0c",
+      "postId": "2",
+      "comment": "wfjsb"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "email": "john@example.com",
+      "password": "password123"
+    },
+    {
+      "id": "2",
+      "username": "jane_smith",
+      "email": "jane@example.com",
+      "password": "password456"
+    },
+    {
+      "id": "3",
+      "username": "bob_johnson",
+      "email": "bob@examp.com",
+      "password": "password789"
+    },
+    {
+      "id": "6ab3",
+      "username": "bob_johnson",
+      "email": "bob@example.com",
+      "password": "pppppp"
+    }
+  ]
+}
