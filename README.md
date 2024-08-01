@@ -39,10 +39,6 @@ Navigate to `http://localhost:3000` in your web browser to view the application.
 
 Contributions are welcome! Please fork the repository and submit a pull request with your proposed changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any questions or feedback, please reach out to [Muzammil0777](https://github.com/Muzammil0777) on GitHub.
